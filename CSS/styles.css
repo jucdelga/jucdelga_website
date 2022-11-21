@@ -1,0 +1,195 @@
+body {
+  background-color: #41444B;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border: dotted grey 7px;
+  border-bottom: none;
+  width: 7%;
+  margin: 100px auto;
+
+}
+
+h1 {
+  color: #DFD8C8;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #DFD8C8;
+  font-size: 2.5rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: normal;
+  line-height: 3;
+}
+
+h3 {
+  font-size: 1.7rem;
+  color: #DFD8C8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 1.3rem;
+  color: #DFD8C8;
+  font-family: 'Merriweather', sans-serif;
+  line-height: 2;
+}
+
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  position: relative;
+  color: #DFD8C8;
+  font-weight: normal;
+}
+
+.first-container {
+  background-color: #41444B;
+  position: relative;
+  padding-top: 200px;
+}
+
+.first_container_discription {
+  background-color: #41444B;
+}
+
+.second-container {
+  background-color: #41444B;
+  margin: 100px 0;
+}
+
+.discription {
+  width:  55%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.favotite_activities {
+  background-color: #41444B;
+  width:  55%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.hobbies {
+  background-color: #41444B;
+  width:  55%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.hobbies_p {
+  margin: auto;
+}
+
+.third_container {
+  background-color: #41444B;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+.resume_container {
+  background-color: #41444B;
+  font-family: cursive;
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.contact_container {
+  background-color: #41444B;
+  font-family: cursive;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact_message {
+  margin-bottom: 70px;
+}
+
+.copy_right {
+  padding-top: 1%;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 30%;
+  top: 20%;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 30%;
+  top: 45%;
+}
+
+.mountain_pic {
+  background-color: #41444B;
+  padding-bottom: 200px;
+}
+
+.cybersecurity_pic {
+  background-color: #41444B;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 25px;
+
+}
+
+.antenna_pic {
+  background-color: #41444B;
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+
+
+}
+
+.cat_latte_pic{
+  background-color: #41444B;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+  height: 25%;
+  width: 25%;
+  margin-top: 40px;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
