@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   background-color: #41444B;
 }
 
@@ -14,25 +14,25 @@ hr {
 h1 {
   font-size: 200%;
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 h2 {
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 h3 {
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 p {
   font-size: 1rem;
-  font-family: cursive;
+  font-family: "Indie Flower";
   text-align: left;
   margin-left: 10%;
   color: #DFD8C8;
