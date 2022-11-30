@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   background-color: #41444B;
   margin: auto;
 }
@@ -16,24 +16,24 @@ hr {
 h1 {
   font-size: 200%;
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 h2 {
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 h3 {
   margin: 0 auto 0 auto;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
   color: #DFD8C8;
 }
 
 p {
-  font-family: cursive;
+  font-family: "Indie Flower";
   text-align: left;
   width: 60%;
   margin-left: 10%;
@@ -86,7 +86,6 @@ ul {
   width: 60px;
   text-align: left;
   color: #DFD8C8;
-  text-align: center;
 }
 
 .rating {
@@ -98,7 +97,6 @@ ul {
   width: 170px;
   text-align: left;
   color: #DFD8C8;
-  text-align: center;
 }
 
 .rating_title {
